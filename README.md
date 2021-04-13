@@ -1,2 +1,3 @@
-# talks
-resources of talks given
+# Talks
+
+* [A Taste of Racket and PLT Redex](hkuplg-2021-04-13)
